@@ -17,6 +17,8 @@ Test2
     Set Tags    Inside the 2nd
 Test3
     Log    Just Testing 3
+Test4
+    Log    Empattt    
 WiraPakpahanTest
     [Documentation]        Hey, Lets automate this world !
         Open Browser       ${URL}    Chrome
