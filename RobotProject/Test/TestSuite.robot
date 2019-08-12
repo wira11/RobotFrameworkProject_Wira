@@ -19,6 +19,8 @@ Test3
     Log    Just Testing 3
 Test4
     Log    Empattt    
+Test5
+    Log    Welcome to Jenkins      
 WiraPakpahanTest
     [Documentation]        Hey, Lets automate this world !
         Open Browser       ${URL}    Chrome
